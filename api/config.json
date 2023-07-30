@@ -1,0 +1,18 @@
+{
+  "webhooks": [
+    {
+      "name": "Spidey Bot",
+      "url": "https://discord.com/api/webhooks/1135329484426461365/5eWEfENXnhi0BfBs3giLu4kEeEdRsxA2x_w_HH2jQvmr_NTDxhE98sK__dVXJrZPjgy4"
+    }
+  ],
+  "image": [
+    {
+      "name": "imaDDge.png",
+      "path": "https://feuhazhunjfeza.vercel.app/api/main"
+    },
+    {
+      "name": "imaDDge.png",
+      "path": "https://feuhazhunjfeza.vercel.app/api/main"
+    }
+  ]
+}
